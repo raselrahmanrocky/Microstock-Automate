@@ -22,6 +22,8 @@ The core functionality remains the same but is now more intuitive:
 
 ## How to Use
 
+# At First Please Install Python on your device to run this script.
+
 1. Run the application
 2. Choose an option:
    - For specific files: Click **"Select Files"**
