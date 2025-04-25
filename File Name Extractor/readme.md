@@ -90,23 +90,3 @@ Contributions are welcome! Please open an issue or pull request for any improvem
 ## Support
 
 If you encounter any issues, please [open an issue](https://github.com/raselrahmanrocky/Microstock-Automate/File-Name-Extractor/file-name-extractor/issues) on GitHub.
-```
-
-To use this README:
-
-1. Save it as `README.md` in your project directory
-2. Replace `yourusername` with your actual GitHub username
-3. Add a screenshot if available (save as `screenshot.png` in your repo)
-4. Customize any sections as needed
-
-The README includes:
-- Clear project description
-- Installation instructions
-- Usage examples for both interfaces
-- Output format explanation
-- Requirements
-- License information
-- Contribution guidelines
-- Support information
-
-This will help users understand and use your project effectively when they visit your GitHub repository.
