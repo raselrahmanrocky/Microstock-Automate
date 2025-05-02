@@ -37,7 +37,7 @@ pip install pillow piexif
 Download the script:
 
 bash
-wget https://raw.githubusercontent.com/raselrahmanrocky/image-metadata-editor/main/image_metadata_editor.py
+wget https://raw.githubusercontent.com/raselrahmanrocky/Microstock-Automate/refs/heads/main/Image%20Metadata%20Editor/image_metadata_editor.py
 Usage
 bash
 python image_metadata_editor.py
