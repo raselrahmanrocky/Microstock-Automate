@@ -72,7 +72,8 @@ Images: .jpg, .jpeg, .png, .tif, .tiff
 Archives: .zip
 
 Screenshot
-(Optional: add screenshots of the GUI here)
+![image](https://github.com/user-attachments/assets/61ea552b-4a84-405e-a1f3-4c50f35a6995)
+
 
 License
 MIT License – feel free to use and modify.
