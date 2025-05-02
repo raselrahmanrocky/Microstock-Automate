@@ -24,7 +24,8 @@ A Python GUI application for viewing and editing image metadata (EXIF and XMP) d
 
 ## Screenshot
 
-![Application Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/32600e01-7ea3-4592-a698-4f06fafd68eb)
+
 
 ## Installation
 
@@ -36,10 +37,10 @@ pip install pillow piexif
 Download the script:
 
 bash
-wget https://raw.githubusercontent.com/yourusername/image-metadata-editor/main/metadata_editor_fixed.py
+wget https://raw.githubusercontent.com/raselrahmanrocky/image-metadata-editor/main/image_metadata_editor.py
 Usage
 bash
-python metadata_editor_fixed.py
+python image_metadata_editor.py
 Click "SELECT IMAGE" to choose a file
 
 Edit the metadata fields
@@ -75,22 +76,3 @@ tkinter (usually included with Python)
 License
 MIT License - Free for personal and commercial use
 
-
-To download this as a README.md file:
-
-1. Copy all the text above
-2. Save it as `README.md` in your project directory
-3. Add a screenshot named `screenshot.png` in the same directory (optional)
-
-The file includes:
-- Badges for Python version and license
-- Clear feature list with emojis
-- Installation and usage instructions
-- Metadata field reference table
-- Safety feature explanations
-- Requirements and license information
-
-You may want to customize:
-- The repository URL in the download instructions
-- Add an actual screenshot
-- Adjust any details specific to your project
